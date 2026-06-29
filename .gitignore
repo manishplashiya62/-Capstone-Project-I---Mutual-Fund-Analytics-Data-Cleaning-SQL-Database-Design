@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Databases
+# We can include or exclude the database depending on preference, but since the user has a database/bluestock_mf.db, let's keep it if they want to share the loaded db.
+# Let's keep bluestock_mf.db since they want to load it and verify it.
+
+# Temporary/scratch files
+pdf_content.txt
+.gemini/
+*~
+.DS_Store

@@ -1,0 +1,6 @@
+benchmark_code,benchmark_name,return_1m,return_3m,return_6m,return_1y
+0,Nifty 50 TR,2.8,7.8,13.2,22.5
+1,Nifty Mid Cap 100 TR,1.9,5.5,10.8,18.5
+2,Nifty Smallcap 50 TR,1.2,3.5,7.5,12.0
+3,Nifty 100 Low Volatility 50 TR,2.5,7.0,12.5,20.0
+4,CRISIL Liquid Fund Index,0.5,1.2,2.5,4.8

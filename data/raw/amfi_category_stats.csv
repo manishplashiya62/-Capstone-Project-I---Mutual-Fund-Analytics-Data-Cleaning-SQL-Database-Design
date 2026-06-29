@@ -1,0 +1,10 @@
+category,subcategory,num_funds,avg_aum_cr,avg_return_1y
+Equity,Large Cap,45,8500,24.5
+Equity,Mid Cap,52,3200,18.5
+Equity,Small Cap,38,1200,12.5
+Equity,Multi Cap,65,5600,22.0
+Hybrid,Balanced Advantage,28,4500,18.0
+Hybrid,Multi Asset,15,2300,16.5
+Debt,Liquid,120,3400,7.2
+Debt,Short Duration,85,2800,8.5
+Debt,Corporate Bond,45,2100,9.0

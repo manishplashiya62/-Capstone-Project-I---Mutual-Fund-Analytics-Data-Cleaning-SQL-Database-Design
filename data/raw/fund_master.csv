@@ -1,0 +1,19 @@
+scheme_code,scheme_name,fund_house,category,subcategory,risk_grade
+119551,SBI Bluechip Direct,SBI Mutual Fund,Equity,Large Cap,Low-Moderate
+120503,ICICI Bluechip Direct,ICICI Prudential Mutual Fund,Equity,Large Cap,Low-Moderate
+118632,Nippon India Large Cap Direct,Nippon India Mutual Fund,Equity,Large Cap,Low-Moderate
+119092,Axis Bluechip Direct,Axis Mutual Fund,Equity,Large Cap,Low-Moderate
+120841,Kotak Bluechip Direct,Kotak Mutual Fund,Equity,Large Cap,Low-Moderate
+125497,HDFC Top 100 Direct,HDFC Mutual Fund,Equity,Large Cap,Low-Moderate
+119551,SBI Multicap 50-25-25 Direct,SBI Mutual Fund,Equity,Multi Cap,Moderate
+120503,ICICI Prudential Balanced Advantage Direct,ICICI Prudential Mutual Fund,Hybrid,Balanced Advantage,Moderate
+118632,Nippon India Multi Asset Direct,Nippon India Mutual Fund,Hybrid,Multi Asset,Moderate
+119092,Axis Equity Dividend Yield Direct,Axis Mutual Fund,Equity,Dividend Yield,Low-Moderate
+120841,Kotak Standard Multi Cap Direct,Kotak Mutual Fund,Equity,Multi Cap,Moderate
+125497,HDFC Hybrid Equity Direct,HDFC Mutual Fund,Hybrid,Balanced Advantage,Moderate
+119551,SBI Focused Equity Direct,SBI Mutual Fund,Equity,Large Cap,Low-Moderate
+120503,ICICI Mid Cap Direct,ICICI Prudential Mutual Fund,Equity,Mid Cap,Moderate
+118632,Nippon India Small Cap Direct,Nippon India Mutual Fund,Equity,Small Cap,Moderate-High
+119092,Axis Midcap Direct,Axis Mutual Fund,Equity,Mid Cap,Moderate
+120841,Kotak Growth Direct,Kotak Mutual Fund,Equity,Multi Cap,Moderate
+125497,HDFC Liquid Direct,HDFC Mutual Fund,Debt,Liquid,Very Low
